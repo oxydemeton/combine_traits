@@ -2,7 +2,7 @@
 name = "combine_traits"
 version = "0.1.0"
 edition = "2021"
-authors = ["Odydemeton"]
+authors = ["Oxydemeton"]
 description = "A Macro to create Traits wich are just a combination of existing ones."
 license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
